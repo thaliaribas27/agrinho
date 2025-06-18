@@ -48,8 +48,8 @@ window.addEventListener('load', revealOnScroll);
 // Carrossel
 const images = [
   './img/fotona.avif',
-  './img/images.jpg',
-  './img/café.JPG'
+  './img/grao.jpg',
+  './img/cafe.JPG'
 ];
 let currentIndex = 0;
 
